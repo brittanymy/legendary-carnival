@@ -22,7 +22,7 @@ WHEN I resize the page or view the site on various screens and devices
     THEN I am presented with a responsive layout that adapts to my viewport
 
 # !! TODO
--   Adjust color schemes -> Dark mode
+-   Adjust color schemes -> Dark mode (DONE)
 -   Add/Fix content of html (DONE)
 -   Change icons & links (DONE)
 -   Add appropriate images -> adding my image to blob svg using figma (DONE)
