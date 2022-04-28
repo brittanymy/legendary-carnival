@@ -23,10 +23,11 @@ WHEN I resize the page or view the site on various screens and devices
 
 # !! TODO
 -   Adjust color schemes -> Dark mode
--   Add/Fix content of html
--   Change icons & links
--   Add appropriate images -> (adding my image to blob svg using figma?)
--   Adjust some media query styling for larger screens -> about me img & scroll styles
+-   Add/Fix content of html (DONE)
+-   Change icons & links (DONE)
+-   Add appropriate images -> adding my image to blob svg using figma (DONE)
+-   Adjust some media query styling for larger screens (DONE)
+-   Create detailed alt attributes for images (DONE)
 
 ### What I've Learned 
 # General
